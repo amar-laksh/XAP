@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">XAP</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">YEAR</string>
+    <string name="prompt_password">ROLL NO</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_sign_in_short">Log in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_show_attedance">Show Attendance</string>
+
+    <string-array name="dept_array">
+        <item>FYBSCIT</item>
+        <item>SYBSCIT</item>
+        <item>TYBSCIT</item>
+        <item>FYBMS</item>
+        <item>SYBMS</item>
+        <item>TYBMS</item>
+        <item>FYBMM</item>
+        <item>SYBMM</item>
+        <item>TYBMMA</item>
+        <item>TYBMMJ</item>
+        <item>FYBSC</item>
+        <item>SYBSC</item>
+        <item>TYBSC</item>
+        <item>FYBA</item>
+        <item>SYBA</item>
+        <item>TYBA</item>
+        <item></item>
+    </string-array>
+    <!-- Strings related to home page -->
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_attendance">Attendance</string>
+
+</resources>
